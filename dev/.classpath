@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/scala"/>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/scala"/>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/java"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-streaming-mqtt_2.10/jars/spark-streaming-mqtt_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-streaming-zeromq_2.10/jars/spark-streaming-zeromq_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-streaming-flume_2.10/jars/spark-streaming-flume_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-streaming-kafka_2.10/jars/spark-streaming-kafka_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-bagel_2.10/jars/spark-bagel_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-graphx_2.10/jars/spark-graphx_2.10-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar" sourcepath="/spark-core"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

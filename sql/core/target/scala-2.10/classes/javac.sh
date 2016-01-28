@@ -1,0 +1,1 @@
+/bin/sh -c cd /media/sean/00022099000F449E/scala-ide-ws/spark/sql/core && /usr/java/jdk1.7.0_71/jre/../bin/javac @/media/sean/00022099000F449E/scala-ide-ws/spark/sql/core/target/scala-2.10/classes/org.codehaus.plexus.compiler.javac.JavacCompiler2002853186156910853arguments -J-Xmx1024m

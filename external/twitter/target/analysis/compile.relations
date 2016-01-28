@@ -1,0 +1,50 @@
+products:
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterInputDStream$$anonfun$1.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterInputDStream.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterReceiver$$anon$1.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterReceiver$$anonfun$onStart$1.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterReceiver$$anonfun$onStop$1.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterReceiver.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterUtils$.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/TwitterUtils.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/package.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/package$.class
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/package.scala -> external/twitter/target/scala-2.10/classes/org/apache/spark/streaming/twitter/package.class
+binary dependencies:
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> /home/sean/maven/repo/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> /home/sean/maven/repo/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> /home/sean/maven/repo/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> /home/sean/maven/repo/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> /home/sean/maven/repo/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/package.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+source dependencies:
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala
+external dependencies:
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.Logging
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.storage.StorageLevel
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.StreamingContext
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.dstream.DStream
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.dstream.InputDStream
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.dstream.ReceiverInputDStream
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.receiver.Receiver
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.scheduler.RateController
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.scheduler.StreamingListener
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.storage.StorageLevel
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.storage.StorageLevel$
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.StreamingContext
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.api.java.JavaReceiverInputDStream
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.api.java.JavaReceiverInputDStream$
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.api.java.JavaStreamingContext
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.dstream.ReceiverInputDStream
+class names:
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.twitter.TwitterInputDStream
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.twitter.TwitterInputDStream$$anonfun$1
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.twitter.TwitterReceiver
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.twitter.TwitterReceiver$$anon$1
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.twitter.TwitterReceiver$$anonfun$onStart$1
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterInputDStream.scala -> org.apache.spark.streaming.twitter.TwitterReceiver$$anonfun$onStop$1
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.twitter.TwitterUtils
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/TwitterUtils.scala -> org.apache.spark.streaming.twitter.TwitterUtils$
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/package.scala -> org.apache.spark.streaming.twitter.package
+   external/twitter/src/main/scala/org/apache/spark/streaming/twitter/package.scala -> org.apache.spark.streaming.twitter.package$

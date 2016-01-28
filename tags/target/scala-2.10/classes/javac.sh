@@ -1,0 +1,1 @@
+/bin/sh -c cd /media/sean/00022099000F449E/scala-ide-ws/spark/tags && /usr/java/jdk1.7.0_71/jre/../bin/javac @/media/sean/00022099000F449E/scala-ide-ws/spark/tags/target/scala-2.10/classes/org.codehaus.plexus.compiler.javac.JavacCompiler9044028877784886896arguments -J-Xmx1024m

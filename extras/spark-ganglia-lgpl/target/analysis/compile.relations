@@ -1,0 +1,29 @@
+products:
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$1.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$2.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$3.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$4.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$5.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$6.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$7.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink$$anonfun$8.class
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> target/classes/org/apache/spark/metrics/sink/GangliaSink.class
+binary dependencies:
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> /home/sean/maven/repo/info/ganglia/gmetric4j/gmetric4j/1.0.7/gmetric4j-1.0.7.jar
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> /home/sean/maven/repo/io/dropwizard/metrics/metrics-core/3.1.2/metrics-core-3.1.2.jar
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> /home/sean/maven/repo/io/dropwizard/metrics/metrics-ganglia/3.1.2/metrics-ganglia-3.1.2.jar
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> /home/sean/maven/repo/org/apache/spark/spark-core_2.10/1.6.0/spark-core_2.10-1.6.0.jar
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> /home/sean/maven/repo/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$1
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$2
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$3
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$4
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$5
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$6
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$7
+   src/main/scala/org/apache/spark/metrics/sink/GangliaSink.scala -> org.apache.spark.metrics.sink.GangliaSink$$anonfun$8

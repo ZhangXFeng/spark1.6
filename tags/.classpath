@@ -1,0 +1,17 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala" output="target/scala-2.10/classes"/>
+  <classpathentry kind="src" path="src/main/java" output="target/scala-2.10/classes"/>
+  <classpathentry kind="src" path="src/test/scala" output="target/scala-2.10/test-classes"/>
+  <classpathentry kind="src" path="src/test/java" output="target/scala-2.10/test-classes"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-2.2.1.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.sbt/boot/scala-2.10.4/lib/scala-reflect.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.spark-project.spark/unused/jars/unused-1.0.0.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/junit/junit/jars/junit-4.11.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.3.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/com.novocode/junit-interface/jars/junit-interface-0.11.jar"/>
+  <classpathentry kind="lib" path="/home/sean/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>

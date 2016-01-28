@@ -1,0 +1,1 @@
+/bin/sh -c cd /media/sean/00022099000F449E/scala-ide-ws/spark/bagel && /usr/java/jdk1.7.0_71/jre/../bin/javac @/media/sean/00022099000F449E/scala-ide-ws/spark/bagel/target/scala-2.10/classes/org.codehaus.plexus.compiler.javac.JavacCompiler4461923009073808202arguments -J-Xmx1024m

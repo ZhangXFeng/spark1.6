@@ -1,0 +1,46 @@
+products:
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/MQTTInputDStream.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/MQTTReceiver$$anon$1.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/MQTTReceiver.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/MQTTUtils$.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/MQTTUtils.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/MQTTUtilsPythonHelper.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/package.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/package$.class
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/package.scala -> external/mqtt/target/scala-2.10/classes/org/apache/spark/streaming/mqtt/package.class
+binary dependencies:
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> /home/sean/maven/repo/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.0.1/org.eclipse.paho.client.mqttv3-1.0.1.jar
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> /home/sean/maven/repo/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> /home/sean/maven/repo/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/package.scala -> /usr/java/jdk1.7.0_71/jre/lib/rt.jar
+source dependencies:
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala
+external dependencies:
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.Logging
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.storage.StorageLevel
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.StreamingContext
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.dstream.DStream
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.dstream.InputDStream
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.dstream.ReceiverInputDStream
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.receiver.Receiver
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.scheduler.RateController
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.scheduler.StreamingListener
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.storage.StorageLevel
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.storage.StorageLevel$
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.StreamingContext
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.api.java.JavaDStream
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.api.java.JavaDStream$
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.api.java.JavaReceiverInputDStream
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.api.java.JavaReceiverInputDStream$
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.api.java.JavaStreamingContext
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.dstream.ReceiverInputDStream
+class names:
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.mqtt.MQTTInputDStream
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.mqtt.MQTTReceiver
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTInputDStream.scala -> org.apache.spark.streaming.mqtt.MQTTReceiver$$anon$1
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.mqtt.MQTTUtils
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.mqtt.MQTTUtils$
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/MQTTUtils.scala -> org.apache.spark.streaming.mqtt.MQTTUtilsPythonHelper
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/package.scala -> org.apache.spark.streaming.mqtt.package
+   external/mqtt/src/main/scala/org/apache/spark/streaming/mqtt/package.scala -> org.apache.spark.streaming.mqtt.package$
